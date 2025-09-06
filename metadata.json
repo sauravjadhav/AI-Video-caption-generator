@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Caption Generator",
+  "description": "Upload a video file to automatically generate time-stamped captions using the Gemini API. The app transcribes the video and provides captions with precise timings.",
+  "requestFramePermissions": []
+}
